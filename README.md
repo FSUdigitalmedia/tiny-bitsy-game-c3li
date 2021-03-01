@@ -3,4 +3,4 @@
 A tiny game about urban foraging.
 
 
-https://github.io/tiny-bitsy-game-c3li/
+https://FSUdigitalmedia/github.io/tiny-bitsy-game-c3li/
